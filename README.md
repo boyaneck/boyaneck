@@ -10,7 +10,7 @@ Introduce
 
 ### Skils
  <div align=center>
-  <img src="Artpair1.png" width="300px" height="200px" title="200px" alt="friez"></img>
+  <img src="https://user-images.githubusercontent.com/104501394/226114414-e303530e-97f5-4994-baeb-11eab8801cfb.png" width="400px" height="300px" title="200px" alt="friez"></img>
 
   
   <img src="https://img.shields.io/badge/Java-red?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-orange?style=flat&logo=JSP&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-red?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-skyblue?style=flat&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-red?style=flat&logo=MyBatis&logoColor=white"/>
