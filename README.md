@@ -28,7 +28,10 @@
 </div>
 
  <div align=center>
+ <img src="https://user-images.githubusercontent.com/104501394/226114784-dd2a7070-8021-42b7-aaf1-1ab378860cbe.png" width:"400px" height="400px" alt="thumb"></img>
+ </div>
+ 
   <img src="https://user-images.githubusercontent.com/104501394/226114414-e303530e-97f5-4994-baeb-11eab8801cfb.png" width="400px" height="300px" title="200px" alt="friez"></img>
-<img src="https://user-images.githubusercontent.com/104501394/226114784-dd2a7070-8021-42b7-aaf1-1ab378860cbe.png" width:"400px" height="400px" alt="thumb"></img 
+ 
   
   
