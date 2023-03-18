@@ -35,3 +35,7 @@
 ### 이때 더많은 작가와 작품을 알림과 동시에 일반대중들에게 전시에 대한 흥미를 이끌어내기 위해 기획 하였습니다.
  
 </div>
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/104501394/226127063-74b00ecc-fb95-4f52-91ef-3a513eb4dba4.png" width="400px"/>
+</div>
