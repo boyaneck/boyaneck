@@ -1,11 +1,7 @@
-i was interested in  coding 
-====
 
 
-:information_desk_person:
-Introduce
-======
-### 
+
+
 ### 프로젝트 주소 http://newjeonsis.ml/index.jsp
 
 
