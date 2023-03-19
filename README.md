@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🌐프로젝트 주소 http://newjeonsis.ml/index.jsp
+### 🌐프로젝트 URL http://newjeonsis.ml/index.jsp
 
 </div>
 <br>
