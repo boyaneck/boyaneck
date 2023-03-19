@@ -20,8 +20,8 @@
  <img src="https://user-images.githubusercontent.com/104501394/226114784-dd2a7070-8021-42b7-aaf1-1ab378860cbe.png" width:"400px" height="400px" alt="thumb"></img>
  </div> <br>
  
-  <img src="https://user-images.githubusercontent.com/104501394/226114414-e303530e-97f5-4994-baeb-11eab8801cfb.png" width="450px" height="400px" title="200px" alt="friez"></img> &nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/104501394/226124475-cd0826cf-f836-488e-9375-8bc73bb7809c.png" width="450px" height="400px"></img> 
+  <img src="https://user-images.githubusercontent.com/104501394/226114414-e303530e-97f5-4994-baeb-11eab8801cfb.png" width="400px" height="400px" title="200px" alt="friez"></img> &nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/104501394/226124475-cd0826cf-f836-488e-9375-8bc73bb7809c.png" width="400px" height="400px"></img> 
  
  <br> 
 <div align="center">
