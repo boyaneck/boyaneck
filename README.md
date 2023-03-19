@@ -33,23 +33,21 @@
 <div align="center">
  
 ### 이때 더많은 작가와 작품을 알림과 동시에 일반대중들에게 전시에 대한 흥미를 이끌어내기 위해 기획 하였습니다.
- 
+
+
 </div>
 <br>
+
+
+# :pointer:담당기능
+
+
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/104501394/226127063-74b00ecc-fb95-4f52-91ef-3a513eb4dba4.png" width="400px"/>
+<img src="https://user-images.githubusercontent.com/104501394/226173037-8fdd92d0-273d-476a-944e-8587a3fa64ab.png"/>
 </div>
 
 <br>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/104501394/226171200-56ec8167-796b-4c47-ba5d-748a2665ef37.png" width="200px" height="200px" align="center"></img>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/104501394/226171659-c8512c85-6055-4baa-b612-0514587c52a6.png"></img>
-<img src="https://user-images.githubusercontent.com/104501394/226171717-1db678fc-8268-4318-a6d3-88bc2f6e06e1.png"></img>
-<img src="https://user-images.githubusercontent.com/104501394/226171741-176a79c8-1a91-4a92-a3c8-b91f0147b61a.png"></img>
-</div>
 
 
 
