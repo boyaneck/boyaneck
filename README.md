@@ -55,7 +55,7 @@
 
 <br>
 
-# 👉개발도구 및 환경
+# 🧰개발도구 및 환경
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/104501394/226177424-abc859f7-5fa6-4530-b8ed-64d49410d2b3.png" width="200px"></img>
@@ -71,3 +71,9 @@
 # 📊업무분류 체계 WBS
 ![image](https://user-images.githubusercontent.com/104501394/226178225-072762cf-1bfc-4742-b826-df0b31fab386.png)
 
+
+# ☑️ERD
+
+<br>
+
+![image](https://user-images.githubusercontent.com/104501394/226195445-894b60c2-3667-42e2-aa0d-d95b5d8e4115.png)
