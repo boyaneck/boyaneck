@@ -68,6 +68,6 @@
 </div>
 <br>
 
-# 업무분류 체계 WBS
-
+# 📊업무분류 체계 WBS
+![image](https://user-images.githubusercontent.com/104501394/226178225-072762cf-1bfc-4742-b826-df0b31fab386.png)
 
