@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🌐프로젝트 URL http://newjeonsis.ml/index.jsp
+### 🌐프로젝트 URL http://newjeonsis.ml
 
 </div>
 <br>
@@ -57,7 +57,7 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/104501394/226173037-8fdd92d0-273d-476a-944e-8587a3fa64ab.png"/>
+<img src="https://user-images.githubusercontent.com/104501394/226347505-2a9a45f9-4230-4b1e-b64c-19d699f68a23.png"/>
 </div>
 
 <br>
