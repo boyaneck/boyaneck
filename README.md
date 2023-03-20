@@ -57,7 +57,7 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/104501394/226347505-2a9a45f9-4230-4b1e-b64c-19d699f68a23.png"/>
+<img src="https://user-images.githubusercontent.com/104501394/226358957-4693b4b7-2e89-430f-9be5-e0cf5623341d.png"/>
 </div>
 
 <br>
