@@ -84,3 +84,7 @@
 <br>
 
 ![image](https://user-images.githubusercontent.com/104501394/226195445-894b60c2-3667-42e2-aa0d-d95b5d8e4115.png)
+<br>
+
+# 🔃 USE CASE
+<img src="https://user-images.githubusercontent.com/104501394/226553822-ce9b9c93-7b62-4988-b9aa-814b172a5f0c.png"></img>
