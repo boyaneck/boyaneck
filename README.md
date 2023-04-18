@@ -89,4 +89,6 @@
 # 🔃 USE CASE
 <img src="https://user-images.githubusercontent.com/104501394/226555118-6e1db83e-8f32-4e62-86d9-9e14ae5290ad.png"></img>
 # 주요기능 시연 
-<img src="C:\Users\min\Desktop\녹화_2023_04_18_18_28_44_752.gif"></img>
+
+
+![녹화_2023_04_18_18_35_42_311](https://user-images.githubusercontent.com/104501394/232736634-fd0b3580-74e6-4615-a26e-265907ee30b4.gif)
