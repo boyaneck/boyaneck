@@ -79,11 +79,7 @@
 ![image](https://user-images.githubusercontent.com/104501394/226178225-072762cf-1bfc-4742-b826-df0b31fab386.png)
 
 
-# ☑️ERD
 
-<br>
-
-![image](https://user-images.githubusercontent.com/104501394/226195445-894b60c2-3667-42e2-aa0d-d95b5d8e4115.png)
 <br>
 
 # 🔃 USE CASE
