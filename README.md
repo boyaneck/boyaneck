@@ -2,7 +2,7 @@
 
 
 ## Language
-[![My Skills](https://skillicons.dev/icons?i=ts,javascript=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 ## Framework & Library
 
 
