@@ -4,7 +4,7 @@
 ## Language
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 ## Framework & Library
-
+[![My Skills](https://skillicons.dev/icons?i=next,react,,css)](https://skillicons.dev)
 
 ## DataBase
 
