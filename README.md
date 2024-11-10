@@ -15,3 +15,7 @@ Hello! I'm
 ### ETC
 [![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=slack&titles=true)
+
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyaneck&show_icons=true&bg_color=00000000)
