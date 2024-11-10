@@ -1,9 +1,12 @@
 
+Hello! I'm 
+
+
 
 
 ### Language
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
-#### Framework & Library
+### Framework & Library
 [![My Skills](https://skillicons.dev/icons?i=next,react,redux,tailwind,styledcomponents)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactquery,zustand&titles=true)
 ### BasS
@@ -11,5 +14,4 @@
 
 ### ETC
 [![My Skills](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
-#### figma    notion
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=slack&titles=true)
