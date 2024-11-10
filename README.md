@@ -1,2 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
+
+## Language
+[![My Skills](https://skillicons.dev/icons?i=ts,javascript=3)](https://skillicons.dev)
+## Framework & Library
+
+
+## DataBase
+
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,next,vue,flutter&perline=3)](https://skillicons.dev)
