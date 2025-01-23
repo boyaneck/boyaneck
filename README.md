@@ -11,7 +11,3 @@ I love awakening people's senses and solving problems through coding.
 
 ![boyaneck's GitHub stats](https://github-readme-stats.vercel.app/api?username=boyaneck&show_icons=true&theme=transparent)
 
-Let's start again 
-pull yourself together
-laser focus on what you should do
-think about what matters to you 
