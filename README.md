@@ -1,4 +1,3 @@
- 
 
 I love awakening people's senses and solving problems through coding.
 
